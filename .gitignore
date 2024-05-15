@@ -1,0 +1,7 @@
+config.json
+package.json
+server/node_modules
+server/package-lock.json
+server/package.json
+server/songs.json
+server/search-result.json
