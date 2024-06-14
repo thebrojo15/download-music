@@ -1,7 +1,9 @@
 config.json
-package.json
 server/node_modules
-server/package-lock.json
-server/package.json
 server/songs.json
 server/search-result.json
+server/express-testing
+server/downloads
+server/format_check.js
+server/web.js
+client
