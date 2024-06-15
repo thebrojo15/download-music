@@ -3,6 +3,7 @@
     "version": "0.0.1",
     "type": "module",
     "dependencies": {
+        "@distube/ytsr": "^2.0.4",
         "axios": "^1.6.8",
         "express": "^4.19.2",
         "fs": "^0.0.1-security",
